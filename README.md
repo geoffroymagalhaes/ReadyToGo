@@ -10,6 +10,8 @@ Ready to go is a React project the goal of this was to learn how to use state an
 
 ## Link to the Website
 
+https://geo-ready-to-go.netlify.app/
+
 ## Link to my linkedin
 
 https://www.linkedin.com/in/geoffroy-magalhaes-3345872b5
